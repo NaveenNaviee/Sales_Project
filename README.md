@@ -1,5 +1,5 @@
 # Sales_Project
-Visualizing sales of the different items by using Advanced Excel
+Visualizing sales of the different items by using Advanced Excel.
 
 About this project:
 
